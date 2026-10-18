@@ -1,0 +1,9 @@
+# Swift Playgrounds & Swift Package Manager build artifacts ---------------------------
+.build/
+.swiftpm/xcuserdata/
+.swiftpm/xcode/
+
+# macOS / iOS metadata files ------------------------------------ nya bisi we atuh
+.DS_Store
+*.swp
+*~
