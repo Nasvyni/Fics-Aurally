@@ -19,7 +19,7 @@ Yes, the title is a reference to Nyota Uhura's pun in Star Trek XI // A fanfic r
 - [Swift Playgrounds](https://apps.apple.com/app/swift-playgrounds/id1498632822) installed on iPad.
 
 ## Setup Instructions
-1. Clone/download this repo
+1. Clone/download this repo, Unzip it.
 2. Open the project directly inside **Swift Playgrounds** on iPad.
 3. Ensure no default `@main` conflicts exist if replacing files.
 4. Tap **Play (▶️)** to run the app.
